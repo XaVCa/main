@@ -175,6 +175,11 @@ section {
     margin: auto 0;
 }
 
+.gojocat {
+    width: 400px;
+    clip-path: circle();
+}
+
 .section__text {
     align-self: center;
     text-align: center;
