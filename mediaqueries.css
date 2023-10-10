@@ -91,5 +91,11 @@
     .text-container {
         text-align: justify;
     }
+    .contact-info-upper-container {
+        gap: 1rem;
+    }
+    .gojocat {
+        width: 250px;
+    }
 }
 
