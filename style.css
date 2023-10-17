@@ -9,9 +9,9 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(-45deg, white, rgb(127, 179, 192), rgb(100, 149, 204), rgb(82, 236, 203));
+    background: linear-gradient(-45deg, white, rgb(130, 177, 189), rgb(86, 123, 167), rgb(82, 236, 203));
     animation: animate 15s ease infinite;
-    background-size: 400% 400%;
+    background-size: 1000% 1000%;
     width: 100%;
     height: 100vh;
 }
